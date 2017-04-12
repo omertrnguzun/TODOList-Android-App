@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name" translatable="false">TODOList</string>
-    <string name="add_event">Yapılacak Ekle</string>
-    <string name="show_notification">Genel Bildirim</string>
+    <string name="add_event">Yapılacak ekle</string>
+    <string name="show_notification">Genel bildirim</string>
     <string name="info">Bilgi</string>
     <string name="restore_last_removed_event">Kaldırılan son yapılacakları geri yükle</string>
     <string name="select_category">Kategoriler</string>
-    <string name="silence_all_alarms">Tüm Alarmları Sustur</string>
-    <string name="report_a_bug">Hata Bildir</string>
+    <string name="silence_all_alarms">Tüm alarmları sustur</string>
+    <string name="report_a_bug">Hata bildir</string>
     <string name="contact_me">Benimle irtibata geçin</string>
-    <string name="drawer_open">Gezinti çekmecesini aç</string>
+    <string name="drawer_open">>Gezinti çekmecesini aç</string>
     <string name="drawer_close">Gezinti çekmecesini kapat</string>
     <string name="navigation_header1">Alarmlar</string>
     <string name="navigation_header2">Kategoriler</string>
@@ -17,21 +17,21 @@
     <string name="navigation_header5">Hakkında</string>
     <string name="choose_a_category">Seçilmiş Kategoriler</string>
     <string name="cancel">İptal</string>
-    <string name="you_have">  var</string>
-    <string name="event_in_your_todolist">TODOList'inizde yapılacağınız</string>
-    <string name="events_in_your_todolist">TODOList'inizde yapılacaklarınız</string>
+    <string name="you_have">Var </string>
+    <string name="event_in_your_todolist">TODOList'inizdeki yapılacağınız</string>
+    <string name="events_in_your_todolist">TODOList'inizdeki yapılacaklarınız</string>
     <string name="your_events_are">Yapılacaklarınız:</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
-    <string name="alarm_scheduled_for">Alarm zamanı: </string>
+    <string name="alarm_scheduled_for">İçin alarm zamanlandı: </string>
     <string name="at"> 'de </string>
     <string name="alarm">Alarm</string>
     <string name="edit_time">Zamanı Düzenle</string>
     <string name="remove">Kaldır</string>
     <string name="alarm_removed">Alarm kaldırıldı</string>
     <string name="ok">TAMAM</string>
-    <string name="alarm_was_set_for"> için alarm ayarlandı</string>
-    <string name="edit_event">>Yapılacağı düzenle</string>
+    <string name="alarm_was_set_for">İçin alarm ayarlandı </string>
+    <string name="edit_event">Yapılacağı düzenle</string>
     <string name="choose_a_color">Bir renk seç</string>
     <string name="general_notification_is_hidden">Genel bildirim gizlendi</string>
     <string name="general_notification_is_shown">Genel bildirim gösterildi</string>
@@ -42,7 +42,7 @@
     <string name="undo">Geri al</string>
     <string name="send_email">E-Posta gönder&#8230;</string>
     <string name="do_not_remove">!!Silmeyin!!</string>
-    <string name="dont_forget">Unutma</string>
+    <string name="dont_forget">Unutmayın</string>
     <string name="version">Sürüm</string>
     <string name="developer">Geliştirici</string>
     <string name="developer_name">©2016 Lukas Koller, Münih, Almanya</string>
@@ -56,13 +56,13 @@
     <string name="color">Renk</string>
     <string name="share_app">Paylaş</string>
     <string name="no_category_selected">Kategori seçilmedi</string>
-    <string name="no_events">Yapacak bir şey yok!</string>
+    <string name="no_events">Yapılacak bir şey yok!</string>
     <string name="signOut">Oturumu kapat</string>
-    <string name="signOutDialog_content">Oturumu kapatmak istiyor musunuz?</string>
+    <string name="signOutDialog_content">Oturumu kapatmak istiyor musunuz??</string>
     <string name="yes">Evet</string>
     <string name="no">Hayır</string>
-    <string name="syncData">Senkronize et</string>
-    <string name="navigation_header0">Senkronize et</string>
+    <string name="syncData">Eşitle</string>
+    <string name="navigation_header0">Eşitle</string>
     <string name="translators">Çevirmenler</string>
     <string name="translators_names0">Matteo Delton</string>
     <string name="translators_names1">Renata Suzart</string>
@@ -70,24 +70,24 @@
     <string name="translators_names3">Robbe Delabre</string>
     <string name="translators_names4">Eric Pujol</string>
     <string name="app_theme">Uygulama Teması</string>
-    <string name="autoSync">Otomatik Senkronize</string>
+    <string name="autoSync">Otomatik Eşitleme</string>
     <string name="legal_notices">Yasal uyarılar</string>
     <string name="themeActivityInfoDialogTitle">Rengini değiştirmek için herhangi bir öğeye tıklayın!</string>
     <string name="themeActivityInfoDialogContent">(Hatta Araç Çubuğu ve Yüzer Eylem Düğmesi)</string>
     <string name="restore_from_default_themes">Varsayılan temalardan geri yükle</string>
-    <string name="repeat">tekrar et: </string>
+    <string name="repeat">Tekrar et: </string>
     <string name="daily">Her Gün</string>
     <string name="weekly">Her Hafta</string>
     <string name="monthly">Her Ay</string>
     <string name="certain_days">Belirli Günler</string>
     <string name="custom">Özel</string>
-    <string name="monday">PAZARTESİ</string>
-    <string name="tuesday">SALI</string>
-    <string name="wednesday">ÇARŞAMBA</string>
-    <string name="thursday">PERŞEMBE</string>
-    <string name="friday">CUMA</string>
-    <string name="saturday">CUMARTESİ</string>
-    <string name="sunday">PAZAR</string>
+    <string name="monday">Pazartesi</string>
+    <string name="tuesday">Salı</string>
+    <string name="wednesday">Çarşamba</string>
+    <string name="thursday">Perşembe</string>
+    <string name="friday">Cuma</string>
+    <string name="saturday">Cumartesi</string>
+    <string name="sunday">Pazar</string>
     <string name="hours">Saatler</string>
     <string name="days">Günler</string>
     <string name="weeks">Haftalar</string>
@@ -98,27 +98,27 @@
     <string name="import_">İçe Aktar</string>
     <string name="import_dialog_content">Yapılacaklara dokunarak seçin.</string>
     <string name="preset_themes">Kurulu Temalar</string>
-    <string name="share_theme">share Theme</string>
-    <string name="experimental_feature">Experimental Feature</string>
+    <string name="share_theme">Temayı paylaş</string>
+    <string name="experimental_feature">Deneysel Özellik</string>
     <string name="signin_dialog_experimental_feature">
-        Giriş yapmanız, yapılacaklarınızı cihazlar arasında senkronize etmenizi sağlar!\n\n
+        Giriş yapmanız, tüm yapılacaklarınızın cihazlar arasında eşitlenmesini sağlar!\n\n
         Unutmayın ki özellik hala (çok) deneysel.
         \nGeliştirici, yapılacakların kaybolmasıyla ilgili herhangi bir sorumluluk kabul etmez.</string>
 
-    <string name="light">açık</string>
-    <string name="dark">koyu</string>
-    <string name="black">siyah</string>
-    <string name="textcolor" translatable="false">MetinRengi</string>
+    <string name="light">Açık</string>
+    <string name="dark">Koyu</string>
+    <string name="black">Siyah</string>
+    <string name="textcolor" translatable="false">Metin Rengi</string>
 
     <string name="launcher_icon" translatable="false">Başlatıcı Simgesi</string>
-    <string name="nothing_to_do_illustration" translatable="false">Yapılması Gerekenler İllüstrasyon</string>
-    <string name="color_button" translatable="false">Renki düğme</string>
+    <string name="nothing_to_do_illustration" translatable="false">Yapılacak bir illüstrasyon yok</string>
+    <string name="color_button" translatable="false">Düğme Rengi</string>
     <string name="button" translatable="false">Düğme</string>
-    <string name="sync_switch">Senkronize</string>
+    <string name="sync_switch">Eşitleme</string>
     <string name="sign_out">Oturumu kapat</string>
-    <string name="add">ekle</string>
-    <string name="edit">düzenle</string>
-    <string name="glide" translatable="false">bumptech/kayma</string>
+    <string name="add">Ekle</string>
+    <string name="edit">Düzenle</string>
+    <string name="glide" translatable="false">bumptech/glide</string>
     <string name="google_play_servcie_attribution" translatable="false">Google Play Hizmeti Niteliği</string>
     <string name="materialnumberpicker" translatable="false">KasualBusiness/MaterialNumberPicker</string>
 </resources>
